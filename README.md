@@ -1,1 +1,1 @@
-# spring-cloudconfig-dc-tolls
+# spring-cloud-config-wa-tolls
